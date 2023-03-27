@@ -1,0 +1,3 @@
+[submodule "src/long_range_arena/long-range-arena"]
+	path = src/long_range_arena/long-range-arena
+	url = git@github.com:google-research/long-range-arena.git
